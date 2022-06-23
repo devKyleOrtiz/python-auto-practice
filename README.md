@@ -14,3 +14,7 @@ I can be a competent devleoper outside of work(Appian).
 create_df.py 
 
 - creates a data fram of static list and prints to console (not any automation, yet)
+
+scrape_table.py 
+
+- reads html of given url and sets it as the value of a variable, prints it (needs work)
