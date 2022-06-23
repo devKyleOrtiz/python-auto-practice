@@ -4,3 +4,5 @@ import pandas as pd #panda import with alias of pd for ease of use / less typing
 bool_tables = pd.read_html('https://en.wikipedia.org/wiki/Boolean_algebra')
 
 print(bool_tables)
+
+#need to document lxml 
